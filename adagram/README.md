@@ -8,3 +8,7 @@ Apps
     * Media sending
     * Calling 
     * GPS Location Functionality
+    * Group Chat
+
+- Settings System
+    * 
